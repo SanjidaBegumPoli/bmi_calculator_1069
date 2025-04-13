@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bmi_calculator
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# bmi_calculator_1069
+This my first Git Repository.
+>>>>>>> a2c97d0db91437ec9595d4cc25c1ed34d55879a3
